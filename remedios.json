@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "nome": "Paracetamol",
+      "foto": "https://jpg-dev.github.io/livraria/datascience.jpg",
+      "preco": 109.9,
+      "descricao": "lorem ipsom"
+    },
+    
+    {
+      "id": 1,
+      "nome": "Paracetamol",
+      "foto": "https://jpg-dev.github.io/livraria/datascience.jpg",
+      "preco": 109.9,
+      "descricao": "lorem ipsom"
+    },
+    
+    {
+      "id": 1,
+      "nome": "Paracetamol",
+      "foto": "https://jpg-dev.github.io/livraria/datascience.jpg",
+      "preco": 109.9,
+      "descricao": "lorem ipsom"
+    }
+    
+  ]
